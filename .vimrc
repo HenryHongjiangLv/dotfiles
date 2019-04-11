@@ -171,7 +171,7 @@ let g:ycm_key_invoke_completion = '<C-e>'
 let g:ycm_show_diagnostics_ui = 1
 let g:ycm_max_diagnostics_to_display = 10000
 let g:ycm_always_populate_location_list = 1
-let g:ycm_python_interpreter_path = '/Users/gtbai/anaconda3/bin/python'
+let g:ycm_python_interpreter_path = '/Users/henry/anaconda3/bin/python'
 
 " syntastic
 let g:syntastic_error_symbol = '✗'
